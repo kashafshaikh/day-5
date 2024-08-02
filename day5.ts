@@ -1,4 +1,3 @@
-
 // 30-Day DSA Challenge from Hello Coders Team
 
 // Day 5 Tasks 
@@ -25,8 +24,8 @@
 // - Use loops to compare elements and calculate new values.
 // - Avoid using built-in array methods.
 // - Think about how to find the middle element of an array when lengths are different.
-
 // *Example:*
+
 // typescript
 // function manipulateArrays(arr1: number[], arr2: number[]): number {
     // Your implementation here
